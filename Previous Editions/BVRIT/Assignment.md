@@ -1,5 +1,4 @@
 #Assignment
-
 I. Querying LLM APIs. 
 Like Cohere there are many such LLMs which can be leveraged using their APIs (but would be paid).
 Can you figure out another such available API (which you can use freely), and answer the following questions.
